@@ -4,3 +4,4 @@ build/
 build1/
 docs/*.md
 **/*.txt
+!CMakeLists.txt
