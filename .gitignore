@@ -1,0 +1,6 @@
+*.o
+temp/
+build/
+build1/
+docs/*.md
+**/*.txt
