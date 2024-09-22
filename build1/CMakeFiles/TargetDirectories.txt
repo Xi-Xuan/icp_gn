@@ -1,4 +1,0 @@
-/home/xixuan/公共的/作业/点云配准实验代码/build1/CMakeFiles/rebuild_cache.dir
-/home/xixuan/公共的/作业/点云配准实验代码/build1/CMakeFiles/edit_cache.dir
-/home/xixuan/公共的/作业/点云配准实验代码/build1/CMakeFiles/ndt_test.dir
-/home/xixuan/公共的/作业/点云配准实验代码/build1/CMakeFiles/optimized_icp.dir
